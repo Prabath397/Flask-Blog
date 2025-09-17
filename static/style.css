@@ -1,0 +1,20 @@
+body { font-family: Arial, sans-serif; margin:0; background:#f7f7f7; color:#333; }
+.container { max-width:900px; margin:0 auto; padding:20px; }
+header { background:#333; color:#fff; padding:15px 0; }
+header .container { display:flex; justify-content:space-between; align-items:center; }
+header a { color:#fff; text-decoration:none; margin-left:15px; }
+h1 a { color:#fff; text-decoration:none; }
+nav a { color:#fff; margin-left:10px; text-decoration:none; }
+main.container { background:#fff; margin-top:20px; padding:20px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.05); }
+.posts-list { list-style:none; padding:0; }
+.post-item { padding:10px 0; border-bottom:1px solid #eee; }
+.post-item h3 { margin:0 0 6px 0; }
+.post-item .meta { color:#999; font-size:13px; margin-bottom:8px; }
+.post-body { white-space: pre-wrap; line-height:1.5; }
+form label { display:block; margin:10px 0 4px; font-weight:bold; }
+input[type="text"], textarea { width:100%; padding:8px; border:1px solid #ccc; border-radius:4px; }
+.btn { display:inline-block; margin-top:12px; padding:8px 12px; background:#333; color:#fff; text-decoration:none; border-radius:4px; border:none; cursor:pointer; }
+.btn.danger { background:#c0392b; }
+.flashes { list-style:none; padding:0; margin:0 0 12px 0; }
+.flashes li { background:#fffae6; border:1px solid #ffd65a; padding:8px; border-radius:4px; margin-bottom:8px; }
+footer { margin-top:20px; text-align:center; padding:10px 0; color:#666; }
