@@ -1,4 +1,4 @@
-\# Flask Blog
+# Flask Blog
 
 
 
@@ -6,21 +6,19 @@ A simple blog app built with Flask and SQLite.
 
 
 
-\## Run
+## Run
 
-1\. Create virtualenv and activate
+1. Create virtualenv and activate
 
-2\. pip install -r requirements.txt
+2. pip install -r requirements.txt
 
-3\. python app.py
+3. python app.py
 
-4\. Open http://127.0.0.1:5000
-
-
-
-\## 👨‍💻 Author
+4. Open http://127.0.0.1:5000
 
 
 
-Prabath
+## 👨‍💻 Author
+
+Prabath Jayasuriya
 
